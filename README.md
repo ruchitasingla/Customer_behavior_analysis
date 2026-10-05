@@ -87,7 +87,6 @@ Using SQL, the analysis answers questions such as:
 - 🛒 Which **product categories** perform best?
 - 📅 Are there noticeable **seasonal or behavioral trends**?
 
-> Edit this list to match the exact queries in your `.sql` file.
 
 ---
 
