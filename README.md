@@ -132,39 +132,6 @@ Open `customer_behavior_sql_queries.sql` and run the queries to answer the busin
 
 ---
 
-## 📊 Key Insights
-
-> Add your real findings here, for example:
-
-- 📌 _Insight 1: e.g. which segment generates the most revenue_
-- 📌 _Insight 2: e.g. how purchase frequency affects loyalty_
-- 📌 _Insight 3: e.g. top-performing categories_
-
-### 💡 Recommendations
-
-- ✅ _Recommendation 1_
-- ✅ _Recommendation 2_
-
----
-
-## 📸 Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here.
-
-```
-![Dashboard](screenshots/dashboard.png)
-```
-
----
-
-## 🔮 Future Improvements
-
-- Add predictive modeling for customer churn or purchase behavior
-- Automate the data pipeline
-- Publish the dashboard online with Power BI Service
-
----
-
 ## 👩‍💻 Author
 
 **Ruchita Singla**
